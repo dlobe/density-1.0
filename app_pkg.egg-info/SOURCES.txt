@@ -1,0 +1,8 @@
+setup.py
+app_pkg/__init__.py
+app_pkg/app_a.py
+app_pkg/app_b.py
+app_pkg.egg-info/PKG-INFO
+app_pkg.egg-info/SOURCES.txt
+app_pkg.egg-info/dependency_links.txt
+app_pkg.egg-info/top_level.txt
